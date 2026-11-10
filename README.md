@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Salut, moi c'est Antony 👋</h1>
 
-<!--
-**fr-antony/fr-antony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Développeur passionné par la programmation
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fr-antony&label=Vues+du+profil&color=0e75b6&style=flat" alt="Vues du profil" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 À propos
+
+- 🔭 Je travaille actuellement chez [coda.school](https://coda.school)
+- 📋 Mon portfolio : [antonyre.vercel.app](https://antonyre.vercel.app)
+- 📫 Me contacter : **@fr.antonyre**
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fr-antony&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
+</p>
+
+<p align="center">
+  <sub>⭐ N'hésite pas à laisser une étoile sur mes projets s'ils te plaisent !</sub>
+</p>
