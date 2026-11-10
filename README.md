@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  <sub>⭐ N'hésite pas à laisser une étoile sur mes projets s'ils te plaisent !</sub>
+  <sub>⭐ N'hésite pas à laisser une étoile sur mes projets si ils te plaisent !</sub>
 </p>
