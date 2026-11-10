@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 À propos
 
-- 🔭 Je travaille actuellement chez [coda.school](https://coda.school)
+- 🔭 J'étudie actuellement: [coda.school](https://coda.school)
 - 📋 Mon portfolio : [antonyre.vercel.app](https://antonyre.vercel.app)
 - 📫 Me contacter : **@fr.antonyre**
 
