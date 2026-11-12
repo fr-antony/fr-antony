@@ -13,7 +13,7 @@
 ## 🧑‍💻 À propos
 
 - 🔭 J'étudie actuellement: [coda.school](https://coda.school)
-- 📋 Mon portfolio : [antonyre.vercel.app](https://antonyre.vercel.app)
+- 📋 Mon portfolio : [antonyrenault.fr](https://antonyrenault.fr)
 - 📫 Me contacter : **@fr.antonyre**
 
 ## 📊 Statistiques GitHub
